@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Class-Path: jcl-over-slf4j-1.7.25.jar jackson-core-2.6.7.jar spring-co
+ re-4.0.9.RELEASE.jar spring-security-oauth-2.2.0.RELEASE.jar jackson-
+ annotations-2.6.0.jar aopalliance-1.0.jar spring-context-support-4.3.
+ 10.RELEASE.jar guava-18.0.jar httpclient-4.3.3.jar spring-data-redis-
+ 1.8.6.RELEASE.jar spring-data-keyvalue-1.2.6.RELEASE.jar spring-data-
+ commons-1.13.6.RELEASE.jar spring-oxm-4.3.10.RELEASE.jar activemq-cli
+ ent-5.15.0.jar spring-beans-4.0.9.RELEASE.jar spring-security-web-3.2
+ .10.RELEASE.jar spring-webmvc-4.0.9.RELEASE.jar spring-security-core-
+ 3.2.10.RELEASE.jar spring-security-oauth2-2.2.0.RELEASE.jar commons-l
+ ogging-1.1.3.jar commons-codec-1.9.jar spring-aop-4.3.10.RELEASE.jar 
+ hawtbuf-1.11.jar jackson-mapper-asl-1.9.13.jar geronimo-jms_1.1_spec-
+ 1.1.1.jar jackson-databind-2.6.7.jar httpcore-4.3.2.jar geronimo-j2ee
+ -management_1.1_spec-1.0.1.jar spring-tx-4.3.10.RELEASE.jar activemq-
+ broker-5.15.0.jar commons-pool2-2.4.2.jar slf4j-api-1.7.25.jar spring
+ -security-config-3.2.10.RELEASE.jar spring-web-4.0.9.RELEASE.jar spri
+ ng-expression-4.0.9.RELEASE.jar jedis-2.9.0.jar jackson-core-asl-1.9.
+ 13.jar activemq-openwire-legacy-5.15.0.jar spring-context-4.0.9.RELEA
+ SE.jar
+Main-Class: 
+
